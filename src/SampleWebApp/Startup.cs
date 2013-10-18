@@ -9,6 +9,8 @@ namespace SampleWebApp
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
+
+            app.Use<RavenDbMiddleware>();
         }
     }
 }
