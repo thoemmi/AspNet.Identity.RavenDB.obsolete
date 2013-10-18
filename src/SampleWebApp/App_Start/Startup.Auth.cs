@@ -32,7 +32,7 @@ namespace SampleWebApp
             //   appId: "",
             //   appSecret: "");
 
-            //app.UseGoogleAuthentication();
+            app.UseGoogleAuthentication();
         }
     }
 }
