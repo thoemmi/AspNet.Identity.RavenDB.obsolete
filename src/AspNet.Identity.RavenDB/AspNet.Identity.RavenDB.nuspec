@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>AspNet.Identity.RavenDB</id>
+    <version>$version$</version>
+    <title>AspNet.Identity.RavenDB</title>
+    <authors>thoemmi</authors>
+    <owners>thoemmi</owners>
+    <!--<licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>-->
+    <projectUrl>https://github.com/thoemmi/AspNet.Identity.RavenDB</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>ASP.NET identity store with RavenDB</description>
+    <!--<releaseNotes>Summary of changes made in this release of the package.</releaseNotes>-->
+    <copyright>Copyright 2013</copyright>
+    <tags>RavenDB Identity Membership</tags>
+  </metadata>
+</package>
